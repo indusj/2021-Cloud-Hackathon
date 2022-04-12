@@ -2,7 +2,7 @@
 title: "2021 Cloud Hackathon"
 subtitle: "Transitioning Earthdata Workflows to the Cloud"
  
-author: "This Hackathon is co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC and Openscapes."
+author: "This Hackathon is co-hosted by PODAAC, NSIDC DAAC, and LPDAAC. Additional support is provided by ASDC, GESDISC, IMPACT, and Openscapes."
 ---
 
 ## Welcome
@@ -14,8 +14,7 @@ Welcome to **Cloud Hackathon: Transitioning Earthdata Workflows to the Cloud,** 
 
 The Cloud Hackathon will take place **virtually** from **November 15-19, 2021.** The event is free to attend, but an application is required. The application period (September 21 - October 12, 2021) is now closed. Those who applied will be informed of the outcome on or around October 20th, 2021.
 
-[![](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Openscapes&message=AWS+us-west-2&color=orange)](https://openscapes.2i2c.cloud)
-
+**Post-workshop resources.** Learn about the [2021 Projects](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/projects/hackathon-projects.html), and the event summary: <https://earthdata.nasa.gov/learn/articles/2021-cloud-hackathon>.
 
 ## About
 
@@ -98,6 +97,8 @@ We thank all of the additional NASA staff that have have joined as helpers.
 Thank you to the open science community that has created software, teaching resources, and workflows that we have been able to build heavily from! These include: 
 
 - eScience Institute, University of Washington: 
-  - https://uwhackweek.github.io/hackweeks-as-a-service/intro.html
-  - https://snowex-hackweek.github.io/website/intro.html
-  - https://icesat-2hackweek.github.io/learning-resources/
+  - <https://uwhackweek.github.io/hackweeks-as-a-service/intro.html>
+  - <https://snowex-hackweek.github.io/website/intro.html>
+  - <https://icesat-2hackweek.github.io/learning-resources/>
+  
+This hackathon book is made with [quarto](https://quarto.org). See the [earthdata-cloud-cookbook](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/) to learn more about how we work and contributing.
